@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Long Way Back Home
+
+This log tracks the cryptographic history and versioning for the song **Long Way Back Home** (long-way-back-home).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T06:45:52.692237 | `v1` | `6f57218d26894b57005002629f6101a153b44f7c01f6def311dca64351f6fce2` | `e36d86f39cca9f59a4140e14aefe3923ad086cab5e43328a946beb80e2d819a6` | `2026-05-23_long-way-back-home-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
