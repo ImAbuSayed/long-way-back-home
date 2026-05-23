@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/long-way-back-home/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Long Way Back Home](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/long-way-back-home/) |
+| **Get License** | [Get a Licensing Quote for Long Way Back Home](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/long-way-back-home/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I've been driving through the dark to find your door
+> Craving the kind of heat I can't ignore
+> Pour me a drink and pull me in close
+> You are the sensual warmth that I need the most
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
